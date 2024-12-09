@@ -1,6 +1,6 @@
 # 👨🏻‍💻 CryAndRRich
 - 👀 I’m interested in pursuing research in Computer Science Engineering, Data Science and AI
-- 🌱 I’m currently learning Python, Java, and some frameworks
+- 🌱 I’m currently learning Python, JavaScript, and some frameworks
 
 ---
 
