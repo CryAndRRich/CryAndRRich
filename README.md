@@ -11,7 +11,7 @@
 </div>
 
 - 🎓 I am currently an undergraduate student at Hanoi University of Science and Technology (HUST)
-- 🔬 I’m interested in pursuing research in AI, ML, Image Editing and Generative Models
+- 🔬 I’m interested in pursuing research in ML, AI, Generative Models and Image Editing techniques
 
 ---
 
